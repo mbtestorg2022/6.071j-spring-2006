@@ -5,6 +5,7 @@ description: This resource discusses about series RLC circuit, critically damped
   response.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/a929d33896839a7bf1ca2631cd87e711_16_transint_rlc2.pdf
 file_type: application/pdf
+parent_uid: 9384461b-aeba-b2c6-c719-60dbb10543fb
 resourcetype: Document
 title: 16_transint_rlc2.pdf
 uid: a929d338-9683-9a7b-f1ca-2631cd87e711

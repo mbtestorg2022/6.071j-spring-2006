@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses about capacitor and inductors.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/eac1995aca830cfd0de6bab60a8abf10_capactr_inductr.pdf
 file_type: application/pdf
+parent_uid: 9384461b-aeba-b2c6-c719-60dbb10543fb
 resourcetype: Document
 title: capactr_inductr.pdf
 uid: eac1995a-ca83-0cfd-0de6-bab60a8abf10

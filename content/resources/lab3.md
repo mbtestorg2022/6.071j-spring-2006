@@ -4,6 +4,7 @@ description: 'The ZIP file contains: SawtoothFS.vi, SquareWaveFS.vi, SquareWaveF
   and TriangularFS.vi.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-071j-introduction-to-electronics-signals-and-measurement-spring-2006/33092378b963a69c9ab36c92e78f2d23_lab3.zip
 file_type: application/zip
+parent_uid: 2a24b641-e32b-77e5-bf32-2bb33f09679c
 resourcetype: Other
 title: lab3.zip
 uid: 33092378-b963-a69c-9ab3-6c92e78f2d23
